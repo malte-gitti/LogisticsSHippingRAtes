@@ -18,4 +18,4 @@ Repository administrator	A role that is responsible for configuring and maintain
 Repository	A data structure for storing documents, including application source code. It contains the project folders that are set up for version control.
 Staging area	An area where commits can be formatted and reviewed before completing the commit.
 Upstream	A term used by developers to refer to the original source where the local copy was cloned from.
-Version control	A system that allows you to keep track of changes to your documents. This process allows you to recover older versions of the documents if any mistakes are made.
+Version control	A system that allows you to keep track of changes to your documents. This process allows you to recover older versions of the documents if any mistakes are made. 
